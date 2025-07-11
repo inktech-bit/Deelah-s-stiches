@@ -86,7 +86,7 @@ document.getElementById("popup").addEventListener("click", function(e) {
       setTimeout(() => {
         preloader.style.display = "none";
       }, 1000);
-    }, 3000);
+    }, 1000);
   });
 
 
