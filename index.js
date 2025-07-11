@@ -1,21 +1,21 @@
 const products = [
   {
-    img: "/images/ankaragown.png",
+    img: "/images/ankaragown.webp",
     title: "Ankara Gown",
     desc: "A simple yet elegant green Ankara gown with natural fit.",
   },
   {
-    img: "/images/sex.png",
+    img: "/images/sex.webp",
     title: "Bold Slit Beauty",
     desc: "A daring and elegant high-slit design with cultural flair.",
   },
   {
-    img: "/images/sexy.png",
+    img: "/images/sexy.webp",
     title: "One-Shoulder Glam",
     desc: "Stand out with asymmetric shoulder elegance and curves.",
   },
   {
-    img: "/images/manequin.png",
+    img: "/images/manequin.webp",
     title: "Mannequin Masterpiece",
     desc: "A designer cut for high-end fashion lovers.",
   },

@@ -145,7 +145,7 @@ nav {
   padding: 2rem;
   min-height: 100vh;
   background-color: var(--base-bg);
-  background-image: linear-gradient(rgba(25, 25, 112, 0.6), rgba(25, 25, 112, 0.6)), url(/images/hero.png);
+  background-image: linear-gradient(rgba(25, 25, 112, 0.6), rgba(25, 25, 112, 0.6)), url(/images/hero.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -326,7 +326,7 @@ nav {
 
 /* Services - About Two */
 .about-two {
-  background-image: linear-gradient(to right, rgba(25, 25, 112, 0.3), rgba(212, 165, 165, 0.2)), url(/images/fashion.png);
+  background-image: linear-gradient(to right, rgba(25, 25, 112, 0.3), rgba(212, 165, 165, 0.2)), url(/images/fashion.webp);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
